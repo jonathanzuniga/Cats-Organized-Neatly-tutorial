@@ -9,4 +9,7 @@ if (drag) {
     
     // reset layer
     layer = layer_get_id("Pieces");
+    
+    // check if level is solved
+    check_if_solved();
 }
