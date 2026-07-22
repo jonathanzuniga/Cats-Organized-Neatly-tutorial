@@ -26,7 +26,12 @@
   },
   "name":"Cats Organized Neatly tutorial",
   "resources":[
+    {"id":{"name":"obj_piece1","path":"objects/obj_piece1/obj_piece1.yy",},},
+    {"id":{"name":"obj_piece2","path":"objects/obj_piece2/obj_piece2.yy",},},
+    {"id":{"name":"obj_piece3","path":"objects/obj_piece3/obj_piece3.yy",},},
+    {"id":{"name":"obj_tile","path":"objects/obj_tile/obj_tile.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_blocker","path":"sprites/spr_blocker/spr_blocker.yy",},},
     {"id":{"name":"spr_button_next","path":"sprites/spr_button_next/spr_button_next.yy",},},
