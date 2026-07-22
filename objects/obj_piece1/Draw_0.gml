@@ -1,0 +1,10 @@
+draw_sprite_ext(
+    sprite_index, 
+    image_index, 
+    x_draw, 
+    y_draw, 
+    1, 
+    1, 
+    image_angle, 
+    c_white, 
+    1);
