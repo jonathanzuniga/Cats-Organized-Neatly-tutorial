@@ -26,11 +26,14 @@
   },
   "name":"Cats Organized Neatly tutorial",
   "resources":[
+    {"id":{"name":"obj_blocker","path":"objects/obj_blocker/obj_blocker.yy",},},
+    {"id":{"name":"obj_button_next","path":"objects/obj_button_next/obj_button_next.yy",},},
     {"id":{"name":"obj_piece1","path":"objects/obj_piece1/obj_piece1.yy",},},
     {"id":{"name":"obj_piece2","path":"objects/obj_piece2/obj_piece2.yy",},},
     {"id":{"name":"obj_piece3","path":"objects/obj_piece3/obj_piece3.yy",},},
     {"id":{"name":"obj_tile","path":"objects/obj_tile/obj_tile.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_blocker","path":"sprites/spr_blocker/spr_blocker.yy",},},
@@ -48,6 +51,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
