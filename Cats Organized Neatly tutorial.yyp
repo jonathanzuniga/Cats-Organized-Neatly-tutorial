@@ -1,0 +1,51 @@
+{
+  "$GMProject":"v1",
+  "%Name":"Cats Organized Neatly tutorial",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"masks","folderPath":"folders/Sprites/masks.yy","name":"masks","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"pieces","folderPath":"folders/Sprites/pieces.yy","name":"pieces","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2026.0.0.16",
+  },
+  "name":"Cats Organized Neatly tutorial",
+  "resources":[
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
+    {"id":{"name":"spr_blocker","path":"sprites/spr_blocker/spr_blocker.yy",},},
+    {"id":{"name":"spr_button_next","path":"sprites/spr_button_next/spr_button_next.yy",},},
+    {"id":{"name":"spr_frame","path":"sprites/spr_frame/spr_frame.yy",},},
+    {"id":{"name":"spr_piece1_mask","path":"sprites/spr_piece1_mask/spr_piece1_mask.yy",},},
+    {"id":{"name":"spr_piece1","path":"sprites/spr_piece1/spr_piece1.yy",},},
+    {"id":{"name":"spr_piece2_mask","path":"sprites/spr_piece2_mask/spr_piece2_mask.yy",},},
+    {"id":{"name":"spr_piece2","path":"sprites/spr_piece2/spr_piece2.yy",},},
+    {"id":{"name":"spr_piece3_mask","path":"sprites/spr_piece3_mask/spr_piece3_mask.yy",},},
+    {"id":{"name":"spr_piece3","path":"sprites/spr_piece3/spr_piece3.yy",},},
+    {"id":{"name":"spr_tile","path":"sprites/spr_tile/spr_tile.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType":null,
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
