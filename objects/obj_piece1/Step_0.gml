@@ -12,3 +12,6 @@ if (place_meeting(x, y, obj_tile)) {
 // update draw position
 x_draw = lerp(x_draw, x, lerp_position);
 y_draw = lerp(y_draw, y, lerp_position);
+
+// update draw rotation
+angle_draw = lerp(angle_draw, image_angle, lerp_angle);

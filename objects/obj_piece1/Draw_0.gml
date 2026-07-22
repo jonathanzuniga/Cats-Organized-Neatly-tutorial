@@ -5,6 +5,6 @@ draw_sprite_ext(
     y_draw, 
     1, 
     1, 
-    image_angle, 
+    angle_draw, 
     c_white, 
     1);

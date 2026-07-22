@@ -33,6 +33,7 @@
   "physicsStartAwake":true,
   "properties":[
     {"$GMObjectProperty":"v2","%Name":"lerp_position","filters":[],"listItems":[],"multiselect":false,"name":"lerp_position","rangeEnabled":true,"rangeMax":1.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.3","varType":0,},
+    {"$GMObjectProperty":"v2","%Name":"lerp_angle","filters":[],"listItems":[],"multiselect":false,"name":"lerp_angle","rangeEnabled":true,"rangeMax":1.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.3","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
